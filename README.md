@@ -22,7 +22,7 @@ If you have ideas or suggestions for new projects or improvements, feel free to 
 
 ## Code of Conduct 🤔
 
-We strive to maintain a welcoming and inclusive environment for everyone involved in our community. We kindly request that all participants review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for everyone. 🤝
+We strive to maintain a welcoming and inclusive environment for everyone involved in our community. We kindly request that all participants review and adhere to our [Code of Conduct](https://github.com/CSEC-ASTU/CSEC-ASTU-Forum/blob/main/CODE_OF_CONDUCT.md) to ensure a positive experience for everyone. 🤝
 
 ## Contact ✉️
 
